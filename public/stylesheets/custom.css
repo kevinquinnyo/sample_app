@@ -3,7 +3,8 @@
 }
 
 body {
-  background: #cff;
+  background: #DFDFDF;
+  
 }
 
 header{
@@ -20,6 +21,7 @@ section {
   font-size: 120%;
   padding: 20px;
   background: #fff;
+  
 }
 
 /* Links */
@@ -120,6 +122,7 @@ table.profile {
 td.main {
   width: 70%;
   padding: 1em;
+  
 }
 
 td.sidebar {
