@@ -1,3 +1,9 @@
-ruby on rails tutuorial chapter 3 sample app courtesy of michael hartl,
+Swarm
 
--kevin quinn
+This is my attempt to create Swarm.  I have made a copy of smaple_app at its \
+current stage, where the sign up form is functional, and all current routes  \
+work aside from "Sign In."
+
+
+
+
